@@ -1,39 +1,39 @@
-Gestor de Tareas - Lista del Supermercado
+Task Manager - Grocery List
 
-Descripción:
+Description:
 
-La aplicación de Gestor de Tareas - Lista del Supermercado es una herramienta práctica para ayudarte a organizar tus tareas pendientes y crear listas de compras para el supermercado de manera eficiente. Puedes agregar, editar y eliminar tareas fácilmente, además de marcarlas como completadas con un simple clic. La aplicación también te permite enviar tu lista de compras directamente a través de WhatsApp, facilitando aún más tu experiencia de compra.
+The Task Manager - Grocery List application is a practical tool to help you organize your pending tasks and create efficient shopping lists. Easily add, edit, and remove tasks, and mark them as completed with a simple click. The app also allows you to share your shopping list directly via WhatsApp, streamlining your shopping experience.
 
-Características Principales:
+Key Features:
 
-Gestión de Tareas: Agrega nuevas tareas, edita las existentes y elimina aquellas que ya has completado.
+Task Management: Add new tasks, edit existing ones, and delete completed tasks.
 
-Listas del Supermercado: Crea listas específicas para tus compras, organizando tus necesidades de manera clara.
+Grocery Lists: Create specific lists for your shopping, organizing your needs clearly.
 
-Marcado Visual: Marca las tareas como completadas con un simple clic, visualizando claramente tu progreso.
+Visual Marking: Mark tasks as completed with a simple click, providing a clear progress overview.
 
-Envío a WhatsApp: Comparte fácilmente tus listas de compras con amigos o familiares a través de WhatsApp.
+WhatsApp Integration: Easily share your shopping lists with friends or family through WhatsApp.
 
-Tecnologías Utilizadas:
+Technologies Used:
 
-HTML, CSS, JavaScript: Desarrollo del front-end para una interfaz de usuario intuitiva.
+HTML, CSS, JavaScript: Front-end development for an intuitive user interface.
 
-Bootstrap: Utilizado para el diseño y maquetado responsivo.
+Bootstrap: Used for responsive design and layout.
 
-LocalStorage: Almacenamiento local para persistencia de datos.
+LocalStorage: Local storage for data persistence.
 
-WhatsApp API: Integración para el envío directo de listas a través de WhatsApp.
+WhatsApp API: Integration for direct list sharing via WhatsApp.
 
-Instrucciones de Uso:
+Usage Instructions:
 
-Agrega nuevas tareas o edita las existentes para personalizar tu lista.
-Marca las tareas como completadas para un seguimiento visual.
-Crea listas específicas para organizar tus compras.
-Utiliza la función de envío a WhatsApp para compartir fácilmente tus listas.
-Contribuciones:
+Add or edit tasks to customize your list.
+Mark tasks as completed for visual tracking.
+Create specific lists to organize your shopping.
+Use the WhatsApp share function to easily share your lists.
+Contributions:
 
-¡Contribuye a mejorar este proyecto! Si encuentras errores o tienes ideas para nuevas funciones, abre un problema o envía una solicitud de extracción.
+Contribute to improving this project! If you find bugs or have ideas for new features, open an issue or send a pull request.
 
-Licencia:
+License:
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE.md](enlace al archivo) para obtener más detalles.
+This project is under the MIT License - check the [LICENSE.md] for more details.
