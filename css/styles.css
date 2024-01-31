@@ -143,3 +143,12 @@ button {
     text-shadow: var(--glower);
     border-color: transparent;
 }
+
+.form-check-input:checked {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.25rem #1bfe9f29;
+}
